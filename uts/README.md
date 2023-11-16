@@ -10,6 +10,8 @@ Kelompok 6
 
 ## Topology
 
+![topology](https://raw.githubusercontent.com/actiangent/jarkom-lanjut/main/uts/art/Screenshot-2023-11-16%20180030.jpeg)
+
 * Router 1 (Router Pusat)
   Export file: export\router-pusat.rsc
   Backup file: backup\router-pusat.backup
